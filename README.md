@@ -2,6 +2,10 @@
 
 **Project Goal:** Build an interactive Tableau dashboard to identify 15% revenue growth opportunities with $1.5M projected impact.
 
+![The Executive Summary dashboard: total revenue, profit margin, customers, customer segments and revenue growth opportunities](docs/executive-summary.png)
+
+*The Executive Summary dashboard, from `visualizations/Sales_Intelligence_Dashboard.twbx`.*
+
 ## Project Structure
 ```
 sales-dashboard/

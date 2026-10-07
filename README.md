@@ -6,6 +6,8 @@
 
 *The Executive Summary dashboard, from `visualizations/Sales_Intelligence_Dashboard.twbx`.*
 
+**Live, interactive version:** [Sales Intelligence Dashboard on Tableau Public](https://public.tableau.com/app/profile/yogvid.wankhede/viz/SalesIntelligenceDashboard_17913369981260/ExecutiveSummary)
+
 ## Project Structure
 ```
 sales-dashboard/
